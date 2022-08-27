@@ -36,7 +36,7 @@
 <a href = 'https://www.linkedin.com/in/rahul-kumar-5a576847/'> <img width = '32px' height = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/@rahul7_kumar'> <img width = '32px' height = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/RahulTinku'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-<a href = 'https://leetcode.com/rahulkumar271/'> <img width = '32px' align= 'center' src="[https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"](https://github.com/RahulTinku/DS-algo/blob/main/Length%20of%20Last%20Word/LeetCode_Logo_1.png)/></a>
+<a href = 'https://leetcode.com/rahulkumar271/'> <img width = '32px' align= 'center' src="https://github.com/RahulTinku/DS-algo/blob/main/Length%20of%20Last%20Word/LeetCode_Logo_1.png"></a>
 
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px height = 70px> </h2>
