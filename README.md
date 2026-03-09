@@ -1,64 +1,100 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://media.giphy.com/media/l378pE8uM6sdiPR5e/giphy.gif" alt="cover" />
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  Designing systems that scale. Writing code that lasts.      ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+# Rahul Kumar
+**Senior Software Engineer** · Full-Stack · Systems Design · Open Source
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kumar-5a576847/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://www.twitter.com/@rahul7_kumar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/rahulkumar271/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RahulTinku)
+
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px height = 50px> </h1>
-<p align='center'>
+---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=RahulTinku.RahulTinku)
+## About
 
-</p>
-<div size='20px'> Hi! I am Rahul. I work to make beautiful websites which helps users in their business. Thank You for taking the time to view my GitHub Profile :smile: 
+I'm a Senior Software Engineer with deep expertise in full-stack JavaScript ecosystems, distributed systems, and frontend architecture. I specialize in leading technical direction across cross-functional teams — turning ambiguous product problems into reliable, scalable engineering solutions.
+
+Beyond shipping features, I care deeply about **engineering culture**: code review practices, system design documentation, mentoring mid-level engineers, and building the kind of codebases future teammates are grateful to inherit.
+
+---
+
+## Core Expertise
+
+| Domain | Technologies |
+|--------|-------------|
+| **Frontend Architecture** | React, Angular, TypeScript, Web Performance |
+| **Backend & APIs** | Node.js, Express, REST, GraphQL |
+| **Full-Stack Stacks** | MERN · MEAN |
+| **Engineering Systems** | Data Structures & Algorithms, System Design |
+| **Practices** | Technical Writing, Code Review, Mentorship, Open Source |
+
+---
+
+## What I'm Currently Focused On
+
+- 🏗 **Architecting** — Scaling frontend systems with a focus on performance, maintainability, and DX
+- 📐 **System Design** — Deepening distributed systems knowledge and design patterns
+- 🧪 **OSS Contributions** — Contributing to and reviewing open source JavaScript/TypeScript projects
+- ✍️ **Technical Writing** — Documenting architecture decisions and engineering best practices
+
+---
+
+## Engineering Philosophy
+
+> *"The best engineers I know spend more time thinking than typing. Good code is a side effect of clear thinking."*
+
+- **Simplicity over cleverness** — Readable code ages better than clever code
+- **Document decisions, not just implementations** — ADRs matter
+- **Build for your future teammates** — They haven't joined yet
+- **Performance is a feature** — Not an afterthought
+- **Technical debt is a financial instrument** — Manage it intentionally
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=RahulTinku&count_private=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulTinku&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact" />
+
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<div align="center">
 
-<img width="55%" height = "55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+![GitHub Streak](https://streak-stats.demolab.com?user=RahulTinku&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
+</div>
 
-- 🔭 I’m currently working on Problem solving skills, improving data structure & algorithm 
+---
 
-- 🌱 I’m currently learning react, vue and other js framework/library. MEAN/MERN/MEVN 
+## Open To
 
-- 👯 I’m looking to collaborate on Projects, Tech Articles 
+- 💼 Staff / Principal Engineer roles (Full-Stack, Frontend-leaning)
+- 🤝 Technical collaborations and OSS projects
+- 📝 Guest articles and technical content
+- 🎤 Engineering talks and panel discussions
 
-- 💬 Talk to me about  JavaScript, Freelancing Opportunities, Open Source, Angular, technical writing 
+---
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height = 32px> </h2>
-<a href= https://github.com/RahulTinku?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height = '32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/RahulTinku?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height = '32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/RahulTinku?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' height = '32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
-<a href= https://github.com/RahulTinku?tab=repositories&q=&type=&language=angularjs&sort= > <img width ='32px'height = '32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'> </a>
-<a href= https://github.com/RahulTinku?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height = '32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+## Let's Connect
 
+I'm most responsive on **LinkedIn** for professional conversations, and **Twitter/X** for quick technical exchanges.
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" height = "100px"> </h2>
-<a href = 'https://www.linkedin.com/in/rahul-kumar-5a576847/'> <img width = '32px' height = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/@rahul7_kumar'> <img width = '32px' height = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/RahulTinku'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-<a href = 'https://leetcode.com/rahulkumar271/'> <img width = '32px' align= 'center' src="https://github.com/RahulTinku/DS-algo/blob/main/Length%20of%20Last%20Word/LeetCode_Logo_1.png"></a>
+If you're building something interesting and want a technical thought partner — feel free to reach out.
 
+<div align="center">
 
-<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px height = 70px> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@rahulkumar271&compact=True"/>
-</a>
-<br>
+---
 
+*"Engineering is not just about writing code. It's about making decisions that age well."*
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px' height = '32px'> </h2>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=RahulTinku&count_private=true&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulTinku&theme=dark" />
-</a>
-
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px' height = '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
-
-<br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
+</div>
