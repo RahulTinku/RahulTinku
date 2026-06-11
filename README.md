@@ -35,8 +35,8 @@ Beyond code, I care deeply about **engineering culture**: architecture RFCs, des
 |---|---|
 | 🏢 **1200+ apps** powered by the frontend platform | ⚡ **~1 week → ~1 hour** app setup time |
 | 👥 **3500+ developers** enabled via shared tooling | 🤖 **4 AI migration tools** shipped |
-| 🗂 **8,000+ repos** scanned by analytics platform | ✅ **100% test coverage** on production SDK |
-| 📉 **98% API call reduction** via batched GraphQL | 🕐 **1,200–2,000 hrs** projected savings |
+| 🗂 **Thousands of repos** scanned by analytics platform | ✅ **100% test coverage** on production SDK |
+| 📉 **98% API call reduction** via batched GraphQL | 🕐 **Thousands of hrs** projected savings |
 
 ---
 
@@ -56,7 +56,7 @@ Beyond code, I care deeply about **engineering culture**: architecture RFCs, des
 ## What I'm Currently Focused On
 
 - 🤖 **AI-assisted platform tooling** — Building MCP-based developer tools, migration agents, and AST codemods that automate large-scale codebase transformations
-- 🏗 **Org-wide migration initiative** — Leading framework migration strategy targeting ~1,300 legacy apps, projecting 1,200–2,000 engineering hours saved
+- 🏗 **Org-wide migration initiative** — Leading framework migration strategy targeting hundreds of legacy apps, projecting thousands of engineering hours saved
 - 📐 **Platform resilience** — Production-grade SDKs with OpenFeature compliance, never-throw contracts, and 100% test coverage
 - ✍️ **Architecture RFCs** — Data-driven strategy materials influencing org-wide frontend platform direction
 
