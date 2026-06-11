@@ -7,12 +7,13 @@
 ```
 
 # Rahul Kumar
-**Senior Software Engineer** · Full-Stack · Systems Design · Open Source
+**Staff Software Engineer** · Frontend Platform & Architecture · AI/Agent-enabled Systems · Developer Experience
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kumar-5a576847/)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://www.twitter.com/@rahul7_kumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulkumar-ddev/)
+[![Topmate](https://img.shields.io/badge/Mentorship-FF6B35?style=flat-square&logo=buffer&logoColor=white)](https://topmate.io/rahul_kumar_ddev)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/rahulkumar271/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RahulTinku)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=flat-square&logo=googlechrome&logoColor=black)](https://rahultinku.github.io)
 
 </div>
 
@@ -20,9 +21,22 @@
 
 ## About
 
-I'm a Senior Software Engineer with deep expertise in full-stack JavaScript ecosystems, distributed systems, and frontend architecture. I specialize in leading technical direction across cross-functional teams — turning ambiguous product problems into reliable, scalable engineering solutions.
+I'm a **Staff Software Engineer (Frontend Platform)** at Walmart Global Tech with 11+ years of experience building the infrastructure layer that powers other engineers' work.
 
-Beyond shipping features, I care deeply about **engineering culture**: code review practices, system design documentation, mentoring mid-level engineers, and building the kind of codebases future teammates are grateful to inherit.
+I lead architecture and technical strategy for a **platform powering 1200+ applications** and enabling **3500+ developers** across a large-scale distributed engineering org. I've driven the evolution from library-based abstractions to AI/agent-driven models — introducing MCP (Model Context Protocol), AST codemods, and agent-based migration tools that reshape how teams interact with the platform.
+
+Beyond code, I care deeply about **engineering culture**: architecture RFCs, design documents, mentoring engineers, and building platforms future teammates are grateful to inherit.
+
+---
+
+## Impact Highlights
+
+| | |
+|---|---|
+| 🏢 **1200+ apps** powered by the frontend platform | ⚡ **~1 week → ~1 hour** app setup time |
+| 👥 **3500+ developers** enabled via shared tooling | 🤖 **4 AI migration tools** shipped |
+| 🗂 **8,000+ repos** scanned by analytics platform | ✅ **100% test coverage** on production SDK |
+| 📉 **98% API call reduction** via batched GraphQL | 🕐 **1,200–2,000 hrs** projected savings |
 
 ---
 
@@ -30,20 +44,21 @@ Beyond shipping features, I care deeply about **engineering culture**: code revi
 
 | Domain | Technologies |
 |--------|-------------|
-| **Frontend Architecture** | React, Angular, TypeScript, Web Performance |
-| **Backend & APIs** | Node.js, Express, REST, GraphQL |
-| **Full-Stack Stacks** | MERN · MEAN |
-| **Engineering Systems** | Data Structures & Algorithms, System Design |
-| **Practices** | Technical Writing, Code Review, Mentorship, Open Source |
+| **Platform & Architecture** | Frontend Architecture, Design Systems, Micro-Frontends, Monorepos, Module Federation, Extensibility & Versioning |
+| **AI & Developer Tooling** | LLM Integration, MCP (Model Context Protocol), AI Agents, AST Codemods, jscodeshift, Automated Code Migration |
+| **Frontend** | React, TypeScript, Next.js, Angular, Redux, Webpack, Vite, Web Performance |
+| **Backend & APIs** | Node.js, Fastify, Express, REST, GraphQL |
+| **DevOps & Infra** | CI/CD, GitHub Actions, AWS, Docker, Kubernetes |
+| **Leadership** | Technical Strategy, Architecture Reviews, RFC Authorship, Cross-team Alignment, Mentorship |
 
 ---
 
 ## What I'm Currently Focused On
 
-- 🏗 **Architecting** — Scaling frontend systems with a focus on performance, maintainability, and DX
-- 📐 **System Design** — Deepening distributed systems knowledge and design patterns
-- 🧪 **OSS Contributions** — Contributing to and reviewing open source JavaScript/TypeScript projects
-- ✍️ **Technical Writing** — Documenting architecture decisions and engineering best practices
+- 🤖 **AI-assisted platform tooling** — Building MCP-based developer tools, migration agents, and AST codemods that automate large-scale codebase transformations
+- 🏗 **Org-wide migration initiative** — Leading framework migration strategy targeting ~1,300 legacy apps, projecting 1,200–2,000 engineering hours saved
+- 📐 **Platform resilience** — Production-grade SDKs with OpenFeature compliance, never-throw contracts, and 100% test coverage
+- ✍️ **Architecture RFCs** — Data-driven strategy materials influencing org-wide frontend platform direction
 
 ---
 
@@ -51,11 +66,11 @@ Beyond shipping features, I care deeply about **engineering culture**: code revi
 
 > *"The best engineers I know spend more time thinking than typing. Good code is a side effect of clear thinking."*
 
+- **Platform thinking over feature thinking** — Build the layer that accelerates other teams
 - **Simplicity over cleverness** — Readable code ages better than clever code
-- **Document decisions, not just implementations** — ADRs matter
+- **Document decisions, not just implementations** — ADRs and RFCs matter
 - **Build for your future teammates** — They haven't joined yet
 - **Performance is a feature** — Not an afterthought
-- **Technical debt is a financial instrument** — Manage it intentionally
 
 ---
 
@@ -78,18 +93,16 @@ Beyond shipping features, I care deeply about **engineering culture**: code revi
 
 ## Open To
 
-- 💼 Staff / Principal Engineer roles (Full-Stack, Frontend-leaning)
+- 💼 Staff / Principal Engineer roles — Frontend Platform, Developer Experience, AI Tooling
 - 🤝 Technical collaborations and OSS projects
-- 📝 Guest articles and technical content
+- 🎯 1:1 mentorship on frontend architecture, system design, and career growth — [topmate.io/rahul_kumar_ddev](https://topmate.io/rahul_kumar_ddev)
 - 🎤 Engineering talks and panel discussions
 
 ---
 
 ## Let's Connect
 
-I'm most responsive on **LinkedIn** for professional conversations, and **Twitter/X** for quick technical exchanges.
-
-If you're building something interesting and want a technical thought partner — feel free to reach out.
+I'm most responsive on **LinkedIn** for professional conversations. If you want mentorship on frontend architecture, platform engineering, or career growth — book a session on **Topmate**.
 
 <div align="center">
 
