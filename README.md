@@ -21,7 +21,7 @@
 
 ## About
 
-I'm a **Staff Software Engineer (Frontend Platform)** at Walmart Global Tech with 11+ years of experience building the infrastructure layer that powers other engineers' work.
+I'm a **Staff Software Engineer (Frontend Platform)** at Walmart Global Tech with 12+ years of experience building the infrastructure layer that powers other engineers' work.
 
 I lead architecture and technical strategy for a **platform powering 1200+ applications** and enabling **3500+ developers** across a large-scale distributed engineering org. I've driven the evolution from library-based abstractions to AI/agent-driven models — introducing MCP (Model Context Protocol), AST codemods, and agent-based migration tools that reshape how teams interact with the platform.
 
